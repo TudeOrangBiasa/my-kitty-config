@@ -26,9 +26,3 @@ sudo pacman -S kitty
 git clone https://github.com/yourusername/kitty-config.git ~/.config/kitty
 ```
 
-3. Install required font:
-
-```bash
-# Install Meslo Nerd Font
-# Download from https://github.com/ryanoasis/nerd-fonts/releases
-```
