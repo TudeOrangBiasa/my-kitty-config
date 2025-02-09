@@ -5,7 +5,7 @@ A modern, aesthetic terminal configuration using the Bird of Paradise theme.
 ![Kitty Terminal Opacity Down](screenshot/opacitydown.png)
 *Opacity down demonstration*
 
-![Kitty Terminal Opacity Up](screenshots/opacityup.png)
+![Kitty Terminal Opacity Up](screenshot/opacityup.png)
 *Opacity up demonstration*
 
 ## Installation
