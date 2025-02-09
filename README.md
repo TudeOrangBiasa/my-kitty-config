@@ -23,6 +23,6 @@ sudo pacman -S kitty
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/kitty-config.git ~/.config/kitty
+git clone https://github.com/TudeOrangBiasa/my-kitty-config.git ~/.config/kitty/
 ```
 
